@@ -1,4 +1,4 @@
-# 🕹️ TWERPS RPG — LangChain Agent Demo
+# TWERPS DEMO
 
 Welcome to **TWERPS** — *The World's Easiest Role-Playing System*!  
 This project is a **LangChain Hello World** that demonstrates:
@@ -32,7 +32,7 @@ OPENAI_API_KEY = "sk-REPLACE-WITH-YOUR-KEY"
 
 ---
 
-▶️ **Run the Game**  
+**Run the Game**  
 Run the main file from terminal:
 
 ```bash
