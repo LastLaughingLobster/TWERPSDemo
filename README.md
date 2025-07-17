@@ -16,18 +16,18 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
+```
 
 **Setup Your OpenAI API Key**  
 Get your API key from: [https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)
 
-Open the `config.py` file.
-
-Paste your API key in the `OPENAI_API_KEY` variable like this:
+Open the `config.py` file and paste your API key in the `OPENAI_API_KEY` variable like this:
 
 ```python
 # config.py
 OPENAI_API_KEY = "sk-REPLACE-WITH-YOUR-KEY"
 ```
+
 **Important:** Do not share this key publicly.
 
 ---
